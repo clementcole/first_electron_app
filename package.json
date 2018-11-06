@@ -1,0 +1,23 @@
+{
+  "name": "first_electron_app",
+  "version": "1.0.0",
+  "description": "Trying out electron for the first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clementcole/first_electron_app.git"
+  },
+  "keywords": [
+    "Electron",
+    "Project"
+  ],
+  "author": "A$AP Foggy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clementcole/first_electron_app/issues"
+  },
+  "homepage": "https://github.com/clementcole/first_electron_app#readme"
+}
